@@ -79,7 +79,7 @@ I want to develop more on HTML
 ## Author
 
 - Website - [Victory Diemuodeke](https://www.your-site.com)
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Victoryruro](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@vicruro](https://www.twitter.com/vicruro)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
